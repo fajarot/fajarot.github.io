@@ -1,3 +1,9 @@
+<?php
+
+require("coba.php");
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
